@@ -1,237 +1,340 @@
-D# Nama Lengkap Mahasiswa
-Nama : Muhammad Farhan Nugroho
+# Nama Lengkap Mahasiswa
+Nama : Muhammad Hanif Sauqi
 
-NIM : 22/505586/SV/21824
+NIM : 22/495097/SV/20949
 
 # Penjelasan Website Secara Umum
-KangSembakOnline adalah sebuah website toko kelontong/grocery store online yang menyediakan sembako dan bahan pangan secara praktis dan efisien. Kami menyediakan berbagai produk sembako seperti daging, ikan, buah, dan sayur.
+CatMart adalah sebuah website e-commerce yang menyediakan berbagai macam cat. Dengan berbagai pilihan cat yang lengkap dan berkualitas, CatMart merupakan tempat yang tepat untuk Anda yang mencari produk cat terbaik. Website ini menawarkan berbagai merek cat terkenal dan terpercaya, mulai dari cat interior, cat eksterior, hingga cat khusus untuk berbagai permukaan.
+
+Melalui platform CatMart, Anda dapat dengan mudah menjelajahi katalog lengkap produk cat yang ditawarkan. website ini menyediakan deskripsi detail untuk setiap produk
+
+Selain kemudahan dalam memilih produk, CatMart juga menawarkan berbagai fasilitas yang memudahkan proses pembelian. Anda dapat dengan cepat menambahkan produk ke keranjang belanja, melakukan pembayaran dengan berbagai metode yang aman dan terpercaya, serta memantau status pengiriman barang dengan mudah. Website ini juga memiliki tim layanan pelanggan yang siap membantu Anda dalam menangani pertanyaan atau masalah yang mungkin timbul.
+
+Dengan keunggulan dalam kualitas produk, katalog yang lengkap, serta layanan yang responsif, CatMart menjadi solusi terbaik untuk memenuhi kebutuhan cat Anda secara online. Tidak perlu repot lagi pergi ke toko fisik, CatMart hadir sebagai platform yang nyaman dan terpercaya untuk membeli berbagai jenis cat yang Anda butuhkan.
 ### Tujuan
-Website ini dirancang untuk memenuhi kebutuhan klien dengan memberikan kemudahan dalam pembelian sembako secara online. Klien kami dapat dengan mudah menjelajahi berbagai produk yang tersedia, memilih produk sesuai kebutuhan mereka, dan menyelesaikan proses pembelian dengan cepat dan aman.
+Tujuan dari website CatMart adalah memberikan pengalaman belanja yang mudah, nyaman, dan terpercaya bagi para konsumen yang membutuhkan cat.dan juga agar bisa  menjadi platform terpercaya dan nyaman bagi para konsumen yang membutuhkan cat. Dengan menyediakan pengalaman belanja yang mudah, katalog lengkap, informasi produk yang detail, dan layanan pelanggan yang responsif, website ini berusaha memenuhi kebutuhan dan harapan konsumen yang ingin membeli cat secara online.
 ### Permasalahan yang Dicover
 Website KangSembakOnline hadir untuk menyelesaikan beberapa permasalahan yang sering dihadapi dalam pembelian sembako secara tradisional. Beberapa masalah yang kami coba atasi meliputi :
-1. Keterbatasan waktu : Banyak orang kesulitan untuk mengunjungi toko kelontong fisik karena kesibukan sehari-hari. Melalui website kami, klien dapat melakukan pembelian kapan saja dan di mana saja tanpa harus meninggalkan rumah atau kantor.
-2. Keterbatasan stok : Kadang-kadang toko kelontong fisik menghadapi masalah stok barang tertentu. Kami berusaha untuk menjaga persediaan yang memadai agar klien tidak kecewa saat mencari produk sembako yang mereka butuhkan.
-3. Kemudahan perbandingan : Website kami menyediakan informasi produk yang lengkap, termasuk gambar, deskripsi, dan harga. Ini memungkinkan klien untuk membandingkan produk dan membuat keputusan pembelian yang tepat.
-4. Pengiriman yang cepat : Kami bekerja sama dengan layanan pengiriman terpercaya untuk memastikan produk yang dipesan oleh klien kami dikirim dengan cepat dan aman ke alamat yang dituju.
-5. Keamanan pembayaran: Melalui website KangSembakOnline, kami menyediakan sistem pembayaran yang aman dan terpercaya. Klien dapat memilih metode pembayaran yang sesuai dengan preferensi mereka, seperti transfer bank, kartu kredit, dompet digital, atau pembayaran di tempat.
+1. Keterbatasan Akses: CatMart memberikan solusi bagi konsumen yang menghadapi keterbatasan aksesibilitas ke toko fisik yang menjual cat. Dengan adanya platform online, konsumen dapat dengan mudah mengakses berbagai produk cat yang dibutuhkan tanpa harus meninggalkan rumah. Ini sangat membantu bagi mereka yang tinggal di daerah yang jauh dari toko cat atau memiliki mobilitas terbatas.
+2. Ketersediaan dan Pilihan Produk: CatMart menyediakan katalog yang lengkap dan beragam produk cat. Hal ini membantu konsumen untuk menemukan produk yang tepat sesuai dengan kebutuhan mereka. Dalam toko fisik, ketersediaan stok barang mungkin terbatas, tetapi CatMart memastikan bahwa konsumen memiliki akses ke berbagai merek, jenis, warna, dan ukuran cat yang mereka cari.
+3. Informasi Produk yang Lengkap: Website ini juga mengatasi permasalahan kurangnya informasi yang tersedia di toko fisik. Setiap produk cat di CatMart dilengkapi dengan deskripsi yang detail, termasuk spesifikasi teknis, cara penggunaan, dan ulasan dari pelanggan sebelumnya. Informasi ini membantu konsumen membuat keputusan pembelian yang lebih baik dan memastikan bahwa produk yang mereka pilih sesuai dengan kebutuhan mereka.
+4. Kemudahan dalam Proses Pembelian: CatMart menyederhanakan proses pembelian cat. Konsumen dapat dengan mudah menambahkan produk ke keranjang belanja, memilih metode pembayaran yang aman dan terpercaya, serta memantau status pengiriman barang secara real-time. Hal ini mengurangi kerumitan dan meningkatkan kenyamanan bagi konsumen saat berbelanja produk cat.
 ### Kontribusi
-Kami berkomitmen untuk memberikan layanan terbaik kepada klien kami dan terus meningkatkan pengalaman belanja online mereka. KangSembakOnline hadir untuk memudahkan akses dan memenuhi kebutuhan sembako dan bahan pangan Anda dengan cepat, mudah, dan terpercaya.
+Kami berkomitmen untuk memberikan layanan terbaik kepada klien kami maupun brand yang bekerjasama dan terus meningkatkan pengalaman belanja online mereka. CatMart hadir untuk memudahkan akses dan memenuhi kebutuhan Cat Anda dengan cepat, mudah, dan terpercaya.
 
 # Kriteria Penilaian (4 Requirement Dasar)
 ### 1. Desain rapi mengikuti kaidah atau prinsip desain
-Berikut adalah penjelasan untuk setiap bagian kode yang memenuhi persyaratan dasar desain :
-1. Konsistensi
 
-Konsistensi dalam desain dicapai dengan menggunakan kelas dan struktur yang serupa di seluruh kode CSS. Misalnya, penggunaan .home-bg .home .content dan .home-category .box-container .box menunjukkan konsistensi dalam struktur selector.
+berikut salah satu potongan kode untuk kriteria pertama :
 
-2. Kontras
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>home</title>
 
-Kontras dapat dilihat dalam penggunaan warna dan perbedaan ukuran teks. Misalnya, pada .home-bg .home .content span, warna teks yang cerah (--lightorange) digunakan untuk menyoroti elemen tertentu dan menciptakan kontras dengan latar belakangnya. Hal yang sama berlaku untuk .home-bg .home .content h3 dengan menggunakan warna teks gelap (--black). 
+   <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+   
+   <!-- font awesome cdn link  -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
 
-3. Repetisi
+   <!-- custom css file link  -->
+   <link rel="stylesheet" href="css/style.css">
 
-Repetisi dapat dilihat dalam penggunaan selector dan properti yang diulang. Misalnya, dalam .home-category .box-container .box dan .products .box-container .box, properti seperti padding, text-align, border, background-color, box-shadow, dan border-radius digunakan secara berulang.
+   <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-straight/css/uicons-regular-straight.css'>
 
-4. Kesatuan
+</head>
+<body>
+   
+<?php include 'components/user_header.php'; ?>
 
-Kesatuan dicapai melalui penggunaan kelas dan gaya yang serupa di seluruh kode CSS. Misalnya, .box-container digunakan dalam beberapa kelas seperti .home-category .box-container, .products .box-container, .reviews .box-container, dll. Ini menciptakan konsistensi visual dan kesatuan antara elemen-elemen yang terkait.
+<div class="home-bg">
 
-Berikut adalah potongan kode nya :
-```css
-/* Konsistensi */
-.home-bg .home .content {
-  /* gaya untuk elemen .content di dalam .home di dalam .home-bg */
-}
+<section class="home">
 
-.home-category .box-container .box {
-  /* gaya untuk elemen .box di dalam .box-container di dalam .home-category */
-}
+   <div class="swiper home-slider">
+   
+   <div class="swiper-wrapper">
 
-/* Kontras */
-.home-bg .home .content span {
-  color: var(--orange);
-  /* gaya untuk elemen <span> di dalam .content di dalam .home-bg */
-}
+      <div class="swiper-slide slide">
+         <div class="image">
+            <img src="images/cat_dulux.png" alt="">
+         </div>
+         <div class="content">
+            <span>Best Seller </span>
+            <h3>Cat Tembok</h3>
+            <a href="shop.php" class="btn">shop now</a>
+         </div>
+      </div>
 
-.home-bg .home .content h3 {
-  color: var(--black);
-  /* gaya untuk elemen <h3> di dalam .content di dalam .home-bg */
-}
+      <div class="swiper-slide slide">
+         <div class="image" style="">
+            <img src="images/Roll_prima.png" alt="">
+         </div>
+         <div class="content">
+            <span>Best Price</span>
+            <h3>Perlengkapan Cat</h3>
+            <a href="shop.php" class="btn">shop now</a>
+         </div>
+      </div>
 
-/* Repetisi */
-.home-category .box-container .box,
-.products .box-container .box {
-  padding: 10px;
-  text-align: center;
-  border: 1px solid black;
-  background-color: white;
-  box-shadow: 2px 2px 2px black;
-  border-radius: 5px;
-  /* gaya yang diulang untuk elemen .box di dalam .box-container */
-}
+   </div>
 
-/* Kesatuan */
-.box-container {
-  /* gaya untuk elemen .box-container yang digunakan dalam beberapa kelas */
-}
-```
+      <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+</div>
+
+<section class="category">
+
+   <h1 class="heading">Category</h1>
+
+   <div class="swiper category-slider">
+
+   <div class="swiper-wrapper">
+
+   <a href="category.php?category=cat tembok" class="swiper-slide slide">
+      <img src="images/icon-1.png" alt="">
+      <h3>Cat tembok</h3>
+   </a>
+
+   <a href="category.php?category=cat duco" class="swiper-slide slide">
+      <img src="images/icon-21.png" alt="">
+      <h3>Cat duco</h3>
+   </a>
+
+   <a href="category.php?category=cat gypsum" class="swiper-slide slide">
+      <img src="images/icon-3.png" alt="">
+      <h3>Cat gypsum</h3>
+   </a>
+
+   <a href="category.php?category=cat kayu&besi" class="swiper-slide slide">
+      <img src="images/icon-4.png" alt="">
+      <h3>Cat kayu&besi</h3>
+   </a>
+
+   <a href="category.php?category=cat genteng" class="swiper-slide slide">
+      <img src="images/icon-5.png" alt="">
+      <h3>Cat genteng</h3>
+   </a>
+
+   <a href="category.php?category=perlengkapan" class="swiper-slide slide">
+      <img src="images/icon-6.png" alt="">
+      <h3>Perlengkapan</h3>
+   </a>
+
+   </div>
+
+   <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+Penjelasan :
+
+Potongan kode tersebut menggambarkan struktur dasar HTML untuk membangun halaman website CatMart. Desain rapi dapat dicapai dengan menggunakan prinsip desain yang konsisten, seperti menggunakan header, nav, main, dan footer untuk membagi tampilan menjadi bagian-bagian yang terorganisir. Selain itu, referensi ke file style.css menunjukkan penggunaan stylesheet untuk mengatur tampilan secara terpusat, memastikan keseragaman desain di seluruh halaman.
+
+
 ### 2. Website responsive, dapat diakses melalui device
-Dalam potongan kode berikut, terdapat beberapa aturan CSS media query yang menunjukkan bahwa kode tersebut mendukung responsif pada perangkat mobile, tablet, dan laptop. Berikut potongan kode dan penjelasannya :
 
-```css
-@media (max-width: 991px) {
-   html {
+berikut salah satu potongan kode untuk kriteria kedua :
+
+
+@media (max-width:991px){
+
+   html{
       font-size: 55%;
    }
+
 }
 
-@media (max-width: 768px) {
-   #menu-btn {
+@media (max-width:768px){
+
+   #menu-btn{
       display: inline-block;
    }
 
-   .header .flex .navbar {
+   .header .flex .navbar{
+      position: absolute;
+      top:99%; left:0; right:0;
       border-top: var(--border);
       border-bottom: var(--border);
       background-color: var(--white);
-      position: absolute;
-      top: 99%;
-      left: 0;
-      right: 0;
       transition: .2s linear;
       clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
    }
 
-   .header .flex .navbar.active {
-      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+   .header .flex .navbar.active{
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
    }
 
-   .header .flex .navbar a {
+   .header .flex .navbar a{
       display: block;
-      margin: 2rem;
+      margin:2rem;
    }
 
-   .update-profile form .flex {
-      flex-wrap: wrap;
-      gap: 0;
+   .home-bg .home .slide .content{
+      text-align: center;
    }
 
-   .update-profile form .flex .inputBox {
-      width: 100%;
+   .home-bg .home .slide .content h3{
+      font-size: 3rem;
    }
+
 }
 
-@media (max-width: 450px) {
-   html {
+@media (max-width:450px){
+
+   html{
       font-size: 50%;
    }
 
-   .flex-btn {
-      flex-flow: column;
-      gap: 0;
-   }
-
-   .title {
+   .heading{
       font-size: 3rem;
    }
-}
-```
-CSS di atas mencakup beberapa media query yang mengatur tampilan responsif untuk berbagai lebar layar. Beberapa contoh pengaturan responsif dalam kode CSS tersebut adalah:
-1. Pada lebar layar maksimum 991px, ukuran font dalam elemen HTML diatur menjadi 55%.
-2. Pada lebar layar maksimum 768px, tombol menu (#menu-btn) ditampilkan dan gaya navigasi di header diubah agar sesuai dengan tampilan responsif. Kapanpun tombol menu tersebut diklik, elemen navigasi (navbar) akan muncul dan menghilang dengan efek transisi. Tautan navigasi juga diberi jarak dan tampil dalam bentuk daftar vertikal.
-3. Pada lebar layar maksimum 450px, ukuran font dalam elemen HTML diatur menjadi 50% dan gaya tata letak (flex-btn) pada tombol-tombol di dalamnya diubah agar tampil dalam satu kolom.
 
+   .flex-btn{
+      flex-flow: column;
+      gap:0;
+   }
+
+   .quick-view form .row .image-container .sub-image img{
+      width: 8rem;
+   }
+
+   .checkout-orders form .flex .inputBox{
+      width: 100%;
+   }
+
+}
+
+penjelasan :
+
+CSS di atas mencakup beberapa media query yang mengatur tampilan responsif untuk berbagai lebar layar. Beberapa contoh pengaturan responsif dalam kode CSS tersebut adalah:
+
+-Pada lebar layar maksimum 991px, ukuran font dalam elemen HTML diatur menjadi 55%.
+-Pada lebar layar maksimum 768px, tombol menu (#menu-btn) ditampilkan dan gaya navigasi di header diubah agar sesuai dengan tampilan responsif. Kapanpun tombol menu tersebut diklik, elemen navigasi (navbar) akan muncul dan menghilang dengan efek transisi. Tautan navigasi juga diberi jarak dan tampil dalam bentuk daftar vertikal.
+-Pada lebar layar maksimum 450px, ukuran font dalam elemen HTML diatur menjadi 50% dan gaya tata letak (flex-btn) pada tombol-tombol di dalamnya diubah agar tampil dalam satu kolom.
 Dengan pengaturan media query ini, tampilan website diharapkan menjadi responsif dan dapat menyesuaikan dengan berbagai ukuran layar yang berbeda.
+
 ### 3. Direct feedback ke pengguna website
 
-Potongan kode berikut memenuhi kriteria Direct feedback ke pengguna website. Berikut adalah alasan mengapa kode tersebut memenuhi kriteria tersebut :
-1. Pesan Kesalahan : Kode tersebut menggunakan array message untuk menyimpan pesan kesalahan yang mungkin terjadi saat login. Jika ada pesan kesalahan yang dihasilkan, kode tersebut akan mencetak pesan-pesan tersebut di dalam elemen HTML dengan class "message". Pesan kesalahan tersebut akan ditampilkan kepada pengguna langsung di halaman web.
-```php
+berikut salah satu potongan kode untuk kriteria ketiga :
+
 <?php
-if(isset($message)){
-   foreach($message as $message){
-      echo '
-      <div class="message">
-         <span>'.$message.'</span>
-         <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
-      </div>
-      ';
-   }
-}
-?>
-```
-2. Penanganan Kesalahan : Kode tersebut menangani dua jenis kesalahan yang dapat terjadi saat login, yaitu ketika email atau kata sandi yang dimasukkan salah dan ketika pengguna tidak ditemukan. Jika terjadi kesalahan, pesan kesalahan yang sesuai akan ditambahkan ke dalam array message, dan pesan-pesan tersebut akan ditampilkan kepada pengguna.
-```php
-<?php
-if($rowCount > 0){
 
-   if($row['user_type'] == 'admin'){
+include 'components/connect.php';
 
-      $_SESSION['admin_id'] = $row['id'];
-      header('location:admin_page.php');
+session_start();
 
-   }elseif($row['user_type'] == 'user'){
-
-      $_SESSION['user_id'] = $row['id'];
-      header('location:home.php');
-
-   }else{
-      $message[] = 'Pengguna tidak ditemukan!';
-   }
-
+if(isset($_SESSION['user_id'])){
+   $user_id = $_SESSION['user_id'];
 }else{
-   $message[] = 'Email atau kata sandi salah!';
+   $user_id = '';
+};
+
+if(isset($_POST['send'])){
+
+   $name = $_POST['name'];
+   $name = filter_var($name, FILTER_SANITIZE_STRING);
+   $email = $_POST['email'];
+   $email = filter_var($email, FILTER_SANITIZE_STRING);
+   $number = $_POST['number'];
+   $number = filter_var($number, FILTER_SANITIZE_STRING);
+   $msg = $_POST['msg'];
+   $msg = filter_var($msg, FILTER_SANITIZE_STRING);
+
+   $select_message = $conn->prepare("SELECT * FROM `messages` WHERE name = ? AND email = ? AND number = ? AND message = ?");
+   $select_message->execute([$name, $email, $number, $msg]);
+
+   if($select_message->rowCount() > 0){
+      $message[] = 'already sent message!';
+   }else{
+
+      $insert_message = $conn->prepare("INSERT INTO `messages`(user_id, name, email, number, message) VALUES(?,?,?,?,?)");
+      $insert_message->execute([$user_id, $name, $email, $number, $msg]);
+
+      $message[] = 'sent message successfully!';
+
+   }
+
 }
+
+
 ?>
-```
-3. Penghapusan Pesan : Setiap pesan kesalahan memiliki tombol "X" (ikon silang) yang memungkinkan pengguna untuk menghapus pesan tersebut dari tampilan. Ini memberikan pengguna kemampuan untuk membersihkan tampilan jika mereka tidak tertarik dengan pesan kesalahan.
-```html
-<div class="message">
-   <span>'.$message.'</span>
-   <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
-</div>
-```
-Dengan menggunakan kode di atas, pengguna akan mendapatkan umpan balik langsung tentang status login mereka dan informasi tentang kesalahan yang terjadi, jika ada.
+
+penjelasan :
+
+Potongan kode PHP yang diberikan menunjukkan penggunaan form untuk mengirim pesan melalui halaman kontak. Ketika pengguna mengisi dan mengirimkan formulir, data yang diisi akan diproses melalui kode PHP. Jika pesan berhasil dikirim, maka akan ditampilkan pesan sukses "sent message successfully!". Jika pesan sudah pernah dikirim sebelumnya, maka akan ditampilkan pesan "already sent message!". Ini memberikan umpan balik langsung kepada pengguna tentang status pengiriman pesan.
+
 
 ### 4. Konten dinamis dari database
-Potongan kode berikut memenuhi kriteria Konten Dinamis dari Database. Berikut adalah penjelasan mengapa kode tersebut memenuhi kriteria tersebut :
-1. Mengambil data dari database : Kode menggunakan query SQL untuk mengambil data pengguna dari tabel users. Query ini digunakan untuk mengambil informasi pengguna yang akan ditampilkan di halaman web.
-```php
-$select_users = $conn->prepare("SELECT * FROM `users`");
-$select_users->execute();
-while($fetch_users = $select_users->fetch(PDO::FETCH_ASSOC)){
-```
-2. Menampilkan data pengguna : Setelah data pengguna diambil dari database, kode menggunakan perulangan while untuk menampilkan setiap pengguna dalam elemen HTML yang sesuai. Data pengguna seperti id, nama, email, dan tipe pengguna ditampilkan menggunakan variabel PHP.
-```html
-<div class="box" style="<?php if($fetch_users['id'] == $admin_id){ echo 'display:none'; }; ?>">
-   <img src="uploaded_img/<?= $fetch_users['image']; ?>" alt="">
-   <p> id pengguna : <span><?= $fetch_users['id']; ?></span></p>
-   <p> nama pengguna : <span><?= $fetch_users['name']; ?></span></p>
-   <p> email : <span><?= $fetch_users['email']; ?></span></p>
-   <p> tipe pengguna : <span style=" color:<?php if($fetch_users['user_type'] == 'admin'){ echo 'orange'; }; ?>"><?= $fetch_users['user_type']; ?></span></p>
-   <a href="admin_users.php?delete=<?= $fetch_users['id']; ?>" onclick="return confirm('hapus pengguna ini?');" class="delete-btn">hapus</a>
-</div>
-```
-3. Menghapus data pengguna: Kode juga menyediakan tombol "hapus" yang memungkinkan admin untuk menghapus pengguna. Ketika tombol di klik, kode mengirim permintaan ke halaman admin_users.php dengan parameter delete yang berisi ID pengguna yang akan dihapus. Setelah mengonfirmasi penghapusan, pengguna akan dihapus dari database.
-```php
-if(isset($_GET['delete'])){
-   $delete_id = $_GET['delete'];
-   $delete_users = $conn->prepare("DELETE FROM `users` WHERE id = ?");
-   $delete_users->execute([$delete_id]);
-   header('location:admin_users.php');
-}
-```
-Dengan menggunakan kode di atas, data pengguna akan diambil dari database dan ditampilkan secara dinamis di halaman web, memberikan konten yang berasal dari database. Pengguna juga dapat menghapus pengguna tertentu melalui tombol "hapus" yang tersedia.
+
+berikut salah satu potongan kode untuk kriteria ke empat :
+
+
+ <section class="home-products">
+
+   <h1 class="heading">latest products</h1>
+
+   <div class="swiper products-slider">
+
+   <div class="swiper-wrapper">
+
+   <?php
+     $select_products = $conn->prepare("SELECT * FROM `products` LIMIT 6"); 
+     $select_products->execute();
+     if($select_products->rowCount() > 0){
+      while($fetch_product = $select_products->fetch(PDO::FETCH_ASSOC)){
+   ?>
+   <form action="" method="post" class="swiper-slide slide">
+      <input type="hidden" name="pid" value="<?= $fetch_product['id']; ?>">
+      <input type="hidden" name="name" value="<?= $fetch_product['name']; ?>">
+      <input type="hidden" name="price" value="<?= $fetch_product['price']; ?>">
+      <input type="hidden" name="image" value="<?= $fetch_product['image_01']; ?>">
+      <button class="fas fa-heart" type="submit" name="add_to_wishlist"></button>
+      <a href="quick_view.php?pid=<?= $fetch_product['id']; ?>" class="fas fa-eye"></a>
+      <img src="uploaded_img/<?= $fetch_product['image_01']; ?>" alt="">
+      <div class="name"><?= $fetch_product['name']; ?></div>
+      <div class="flex">
+         <div class="price"><span>$</span><?= $fetch_product['price']; ?><span>/-</span></div>
+         <input type="number" name="qty" class="qty" min="1" max="99" onkeypress="if(this.value.length == 2) return false;" value="1">
+      </div>
+      <input type="submit" value="add to cart" class="btn" name="add_to_cart">
+   </form>
+   <?php
+      }
+   }else{
+      echo '<p class="empty">no products added yet!</p>';
+   }
+   ?>
+
+   </div>
+
+   <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+penjelasan :
+
+Pada bagian kode yang diberikan, terdapat pengambilan data produk dari database menggunakan kode PHP. Kode ini mengakses tabel "products" dan mengambil 6 produk terbaru dengan menggunakan query SELECT * FROM products LIMIT 6. Selanjutnya, data produk tersebut ditampilkan secara dinamis menggunakan loop while pada kode PHP. Setiap produk ditampilkan dalam bentuk elemen HTML dengan menggunakan data yang diambil dari database, seperti nama produk, harga, dan gambar. Hal ini memungkinkan konten website menjadi dinamis, dapat diperbarui, dan disesuaikan dengan data yang ada di database.
+
+Dengan menggunakan potongan kode tersebut, website telah memenuhi keempat kriteria penilaian dasar yang diminta. Kode tersebut mencakup desain yang rapi, responsif, memberikan umpan balik langsung kepada pengguna, dan menampilkan konten dinamis dari database.
 
 # Catatan
-Website ini memiliki 2 tipe user yaitu user (pengguna) dan admin yang dibedakan ketika melakukan login dan harus melakukan registrasi terlebih dahulu, agar bisa dapat mengakses/login dengan ke 2 tipe user tersebut, saya sudah me-registrasikannya dengan akun google dan password sebagai berikut :
+Website ini memiliki 2 tipe user yaitu user (pengguna) dan admin yang dibedakan ketika melakukan login dan harus melakukan registrasi terlebih dahulu, agar bisa dapat mengakses/login dengan ke 2 tipe user tersebut yaitu :
 #### Admin
 Akun : admin01@gmail.com
 
 Password : 111
 #### User
-Akun : user01@gmail.com
 
-Password : 123
-
-Atau jika tidak ingin menggunakan akun yang di atas, kita juga bisa membuat akun sendiri melalui menu registrasi/daftar.
+untuk akun user anda perlu registrasi terlebih dahulu
