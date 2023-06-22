@@ -27,6 +27,7 @@ Kami berkomitmen untuk memberikan layanan terbaik kepada klien kami maupun brand
 
 berikut salah satu potongan kode untuk kriteria pertama :
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,6 +136,7 @@ berikut salah satu potongan kode untuk kriteria pertama :
    </div>
 
 </section>
+```
 
 Penjelasan :
 
@@ -145,7 +147,7 @@ Potongan kode tersebut menggambarkan struktur dasar HTML untuk membangun halaman
 
 berikut salah satu potongan kode untuk kriteria kedua :
 
-
+```css
 @media (max-width:991px){
 
    html{
@@ -213,6 +215,7 @@ berikut salah satu potongan kode untuk kriteria kedua :
    }
 
 }
+```
 
 penjelasan :
 
@@ -227,6 +230,7 @@ Dengan pengaturan media query ini, tampilan website diharapkan menjadi responsif
 
 berikut salah satu potongan kode untuk kriteria ketiga :
 
+```php
 <?php
 
 include 'components/connect.php';
@@ -265,9 +269,8 @@ if(isset($_POST['send'])){
    }
 
 }
-
-
 ?>
+```
 
 penjelasan :
 
@@ -278,7 +281,7 @@ Potongan kode PHP yang diberikan menunjukkan penggunaan form untuk mengirim pesa
 
 berikut salah satu potongan kode untuk kriteria ke empat :
 
-
+```php
  <section class="home-products">
 
    <h1 class="heading">latest products</h1>
@@ -322,6 +325,7 @@ berikut salah satu potongan kode untuk kriteria ke empat :
    </div>
 
 </section>
+```
 
 penjelasan :
 
