@@ -222,8 +222,11 @@ penjelasan :
 CSS di atas mencakup beberapa media query yang mengatur tampilan responsif untuk berbagai lebar layar. Beberapa contoh pengaturan responsif dalam kode CSS tersebut adalah:
 
 -Pada lebar layar maksimum 991px, ukuran font dalam elemen HTML diatur menjadi 55%.
+
 -Pada lebar layar maksimum 768px, tombol menu (#menu-btn) ditampilkan dan gaya navigasi di header diubah agar sesuai dengan tampilan responsif. Kapanpun tombol menu tersebut diklik, elemen navigasi (navbar) akan muncul dan menghilang dengan efek transisi. Tautan navigasi juga diberi jarak dan tampil dalam bentuk daftar vertikal.
+
 -Pada lebar layar maksimum 450px, ukuran font dalam elemen HTML diatur menjadi 50% dan gaya tata letak (flex-btn) pada tombol-tombol di dalamnya diubah agar tampil dalam satu kolom.
+
 Dengan pengaturan media query ini, tampilan website diharapkan menjadi responsif dan dapat menyesuaikan dengan berbagai ukuran layar yang berbeda.
 
 ### 3. Direct feedback ke pengguna website
